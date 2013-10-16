@@ -12,6 +12,10 @@ import android.view.View;
 /**
  * Created by Brian on 10/13/13.
  */
+
+//chagnes made by Carissa
+
+
 public class DrawingView extends View{
 
     //drawing path
